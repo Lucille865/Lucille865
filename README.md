@@ -34,12 +34,6 @@ I am currently searching for an internship starting April 2027. I code in Python
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/linkedin.com/in/lucille-bon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,4 +47,3 @@ I am currently searching for an internship starting April 2027. I code in Python
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Lucille865">Lucille865</a></i></p>
