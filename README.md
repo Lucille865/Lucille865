@@ -45,5 +45,3 @@ I am currently searching for an internship starting April 2027. I code in Python
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
----
